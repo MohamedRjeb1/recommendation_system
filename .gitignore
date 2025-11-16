@@ -1,0 +1,5 @@
+\venv
+anime_with_views.csv
+anime.csv
+__pycache__/
+rating.csv
